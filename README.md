@@ -1,8 +1,11 @@
 # MachineLearning_Yixiu
 
 ## Environment Specified:
--- Python 3.6.0
---
+1. Python == 3.6.0
+2. Tensorflow == 2.0.0
+3. Tensorflow_gpu == 2.0.0
+4. CUDA == 11.6
+5. keras == 2.3.1
 
 ## Current data Loading (creation) issues:
 
