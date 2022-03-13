@@ -7,7 +7,7 @@
 4. CUDA == 11.6
 5. keras == 2.3.1
 
-## Current data Loading (creation) issues:
+## Current data Loading (creation) issues (Guide to use dataset_generator):
 
 1. In the folder "dataset_generation", the file generate_RML2016.10a.py is still not working on my side.(Our GNU generated data is unreadable and cannot load in.)
 
@@ -68,4 +68,4 @@
 
 ## Reference:
 
-* Most of code in folder(CLDNN Model,Resnet,Robust_CNN Model) is from DeepSig Company (https://www.deepsig.ai/?hsLang=en), what I did is to match the environment and tune the code to be runable in a new environment. 
+* Most of code in folder(CLDNN Model,Resnet,Robust_CNN Model,dataset_generator) is from DeepSig Company (https://www.deepsig.ai/?hsLang=en), what I did is to match the environment and tune the code to be runable in a new environment. 
