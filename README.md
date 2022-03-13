@@ -1,5 +1,9 @@
 # MachineLearning_Yixiu
 
+## Environment Specified:
+-- Python 3.6.0
+--
+
 ## Current data Loading (creation) issues:
 
 1. In the folder "dataset_generation", the file generate_RML2016.10a.py is still not working on my side.(Our GNU generated data is unreadable and cannot load in.)
